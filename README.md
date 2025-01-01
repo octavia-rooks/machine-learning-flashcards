@@ -1,2 +1,2 @@
 # machine-learning-flashcards
-Machine Learning Flashcards
+This repository contains flashcards created for revision of the L7 Machine Learning Apprenticeship. 
